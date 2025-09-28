@@ -1,4 +1,4 @@
-# Task: Build a Retrieval-Augmented Generation (RAG) System — End-to-End Challenge
+# Build a Retrieval-Augmented Generation (RAG) System — End-to-End Challenge
 
 **Goal (high level):**  
 Design and implement a working **Retrieval-Augmented Generation (RAG)** system from scratch that answers user queries using an external knowledge base. This exercise evaluates your **system design**, **engineering**, and **AI integration** skills — think production-readiness, modularity, observability, and faithfulness of answers.
